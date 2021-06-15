@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">description</string>
+    <string name="title">title</string>
+    <string name="release_date">release date</string>
+    <string name="image_poster_list">image poster list</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chapstone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">title</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="release_date">release date</string>
+    <string name="description">description</string>
+    <string name="backdrop_description">backdrop description</string>
+    <string name="poster_description">poster description</string>
+    <string name="rate_description">rate description</string>
+    <string name="language_description">language description</string>
+    <string name="rate">rate</string>
+    <string name="language">language</string>
+    <string name="error_message">something wrong</string>
+    <string name="image_logo">image logo</string>
+    <string name="to_favorite">to favorite</string>
+    <string name="movie_app">Movie App</string>
+    <string name="to_back">to back</string>
+    <string name="detail">Detail</string>
+    <string name="overview">Overview</string>
+    <string name="unfavorite_logo">unfavorite logo</string>
+    <string name="delete">Delete</string>
+    <string name="Success">success</string>
+</resources>
